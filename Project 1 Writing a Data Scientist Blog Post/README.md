@@ -12,7 +12,7 @@
 ## 2. Project Motivation
 
 
->Aircraft never crash because of one single issue. It’s almost always a combination of factors that lead to an accident. Whilst flying is extremely safe, the typical reasons as to why planes crash include pilot error, technical failures, bad weather, terrorism, and pilot fatigue.
+>Aircraft never crash because of a single issue. It’s almost always a combination of factors that lead to an accident. Whilst flying is extremely safe, the typical reasons as to why planes crash include pilot error, technical failures, bad weather, terrorism, and pilot fatigue.
 
 > This project was inspired by the dire concern of aviation safety with the dataset acquired from Kaggle https://www.kaggle.com/datasets/thedevastator/airplane-crashes-and-fatalities. The below CRISP-DM methodology will be incorporated to analyze the data.
 
